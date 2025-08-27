@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1756276895079,
+      "tag": "0000_premium_ultimates",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1756277967036,
+      "tag": "0001_tense_roland_deschain",
+      "breakpoints": true
+    }
+  ]
+}

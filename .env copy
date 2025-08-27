@@ -1,0 +1,7 @@
+NEXT_PUBLIC_GA_MEASUREMENT_ID=''
+
+DB_HOST='localhost'
+DB_PORT=3306
+DB_USER='nextjs'
+DB_PASSWORD='nextjs'
+DB_DATABASE='nextjs'
